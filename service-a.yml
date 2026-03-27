@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8082
 
 custom:
   property: das ist die YAML Datei aus Github
